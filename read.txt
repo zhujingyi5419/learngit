@@ -2,3 +2,4 @@ To build the examples locally, run:
 hello saber£¡
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+console.long("hello world");
